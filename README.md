@@ -1,4 +1,4 @@
-# langGraph-playground
+# langgraph-playground
 
 A minimal LangGraph + LangChain playground for exploring tool-enabled agents, RAG, and MCP server integrations using Google Gemini and custom Python tools.
 
